@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script FOR UDP TCP LISTEN PORTS
+
+netstat -l
